@@ -1,14 +1,3 @@
-__author__ = 'ayalg'
-
-## Animated Tower-Of-Hanoi game with Tkinter GUI
-## using Python's turtle module
-## author: Gregor Lingl, Vienna, Austria
-## email: glingl@aon.at
-## date: 22. 7. 2009
-## modified for Into2Cs2015 by Ayal Green
-
-## derived from a pure tkinter-version from 16. 2. 2004
-
 from tkinter import *
 from turtle import TurtleScreen, RawTurtle
 
